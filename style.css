@@ -1,0 +1,13 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+p
+{
+    font-size: 10px;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+}
